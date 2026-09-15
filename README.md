@@ -1,4 +1,5 @@
 lib
+
  ┣ main.dart
  ┣ models
  ┃ ┗ article_model.dart
